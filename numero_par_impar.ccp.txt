@@ -1,0 +1,11 @@
+// Example program
+#include <iostream>
+#include <string>
+
+int main()
+{
+  int numero1(19876);
+  std::string salida;
+  numero1 %2 ?  salida= "impar": salida = "par";
+ std::cout<< salida;
+}
