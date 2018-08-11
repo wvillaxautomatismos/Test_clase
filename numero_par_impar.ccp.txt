@@ -8,4 +8,6 @@ int main()
   std::string salida;
   numero1 %2 ?  salida= "impar": salida = "par";
  std::cout<< salida;
+
+prueba de rama
 }
